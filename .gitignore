@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# Logs
+*.log
+
+# Build output
+/dist
+/build
+
+# MongoDB
+*.db
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
